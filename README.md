@@ -4,6 +4,8 @@ This is a sample website
 
 ## Introduction
 
+Adding text
+
 ## Purpose
 
 ## Deployment
